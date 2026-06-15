@@ -55,7 +55,7 @@ Task-4-Sentiment-Analysis/
 
 | Category | Tools / Libraries |
 |----------|------------------|
-| Language | Python 3.x |
+| Language | Python 3.14.5 |
 | NLP | NLTK, VADER |
 | ML Models | Scikit-learn |
 | Vectorization | TF-IDF, CountVectorizer |
