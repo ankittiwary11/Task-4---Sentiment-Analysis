@@ -155,13 +155,3 @@ jupyter notebook sentiment_analysis.ipynb
 3. **VADER** works well without training data, ideal for quick sentiment scoring
 4. **Bigrams** (two-word combinations) capture important context like "not good" or "very bad"
 5. Supervised ML models outperform lexicon-based approaches on domain-specific data
-
----
-
-## 📜 License
-
-This project is submitted as part of the **CodTech IT Solutions Data Analytics Internship**.
-
----
-
-*⭐ If this helped you, consider starring the repository!*
